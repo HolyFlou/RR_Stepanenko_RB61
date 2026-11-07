@@ -1,6 +1,9 @@
 Завдання № 1
+
 <img width="210" height="95" alt="изображение" src="https://github.com/user-attachments/assets/6bd8a95c-0fd4-4aa6-b7cb-7197a9b8730b" />
+
 [Файл task1.c](https://github.com/HolyFlou/RR_Stepanenko_RB61/blob/main/task1.c)
+
 В цій частині коду ми оголошуємо змінні та просимо користувача ввести N(кількість ітерацій в циклі)
 ```
     int N;
