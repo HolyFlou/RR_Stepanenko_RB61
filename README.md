@@ -4,7 +4,7 @@
 
 ## Завдання № 1
 
-<img width="210" height="95" alt="изображение" src="https://github.com/user-attachments/assets/6bd8a95c-0fd4-4aa6-b7cb-7197a9b8730b" />
+<img width="200" height="76" alt="photo_2026-11-14_13-13-02" src="https://github.com/user-attachments/assets/d5830eca-325f-4a20-ad4b-f55a524da665" />
 
 [Файл task1.c](https://github.com/HolyFlou/RR_Stepanenko_RB61/blob/main/task1.c)
 
@@ -189,3 +189,5 @@ void clear_memory(double **Arr, int N) {
     free(Arr);
 }
 ```
+
+<img width="480" height="291" alt="photo_2026-11-14_13-13-07" src="https://github.com/user-attachments/assets/dabfa0e1-5254-4d5d-82e1-73478d70da3b" />
